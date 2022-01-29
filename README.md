@@ -10,7 +10,7 @@ In most cases, each problem folder has a main function file(.js) with direction 
 
 ## Test
 Test Driven Developement(TDD) is applied in solving the problem and Jest is being used as a testing tool.
-If you want to test, please first install npm, and runt test as follows. 
+If you want to test, please first install npm, and runt test with commands as follows. 
 Then Jest will go through all tests wired up.
 
 ```
