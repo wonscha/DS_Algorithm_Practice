@@ -1,6 +1,4 @@
 # DS_Algorithm_Practice
-
-## The purpose of this repository
 This repository is created to archive data strucures and algorithm solutions that Wonsuk has come up with.
 So, this repository is for personal archiving purpose. 
 
