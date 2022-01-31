@@ -1,6 +1,6 @@
 # DS_Algorithm_Practice
-This repository is created to archive data strucures and algorithm solutions that Wonsuk has come up with.
-So, this repository is for personal archiving purpose. 
+This repository is created to archive data strucures and algorithm solutions that I have written.
+This repository is for personal archiving purpose. 
 
 Questions are mostly from LeetCode or Udemy courses. 
 
