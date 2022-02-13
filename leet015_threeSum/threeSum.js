@@ -19,7 +19,7 @@ const threeSum = (nums) => {
   if (nums.length < 3) return results;
   
   // sort nums array in place
-  nums.sort();
+  nums.sort((a, b) => a - b);
 
   // i represents the most left index
   for (let i = 0; i < nums.length - 2; i++) {
