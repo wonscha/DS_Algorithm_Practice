@@ -9,7 +9,7 @@ Every problem folder contains a question and solution file(.js) and a Jest test 
 
 ## Test
 Test Driven Developement(TDD) is applied in solving the problem and Jest is being used as a testing tool.
-If you want to run test, please first install npm, and runt test with commands as follows. 
+If you want to run test, please first install dependencies, and run test with commands as follows. 
 Then Jest will go through all tests wired up.
 
 ```
